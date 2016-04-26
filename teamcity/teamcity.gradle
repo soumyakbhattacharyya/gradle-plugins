@@ -34,7 +34,7 @@ allprojects {
     /**
      * TeamCity artifacts repository.
      */
-    repositories { maven { url 'http://evgenyg.artifactoryonline.com/evgenyg/teamcity/' }}
+    repositories { maven { url 'http://repository.jetbrains.com/teamcity/' }}
 
 
     configurations {
